@@ -1,118 +1,90 @@
-Here’s a detailed and professional README.md template for your GitHub profile, based on your skills and projects:
+# 👋 Hello, I'm Mohamed Salih Mohamed Nour  
 
+🚀 **Software Engineer | Full-Stack Developer | MERN Stack Specialist**  
+🔧 **React.js | Next.js | Angular | Node.js | Express | .NET Core**  
 
----
-
-👋 Hello, I'm Mohamed Salih Mohamed Nour
-
-🚀 Software Engineer | Full-Stack Developer | MERN Specialist
-🔧 React.js | Next.js | Angular | Node.js | Express | .NET Core
-
-Welcome to my GitHub profile! I'm a passionate developer with a strong focus on creating scalable and user-friendly web and mobile applications. I'm always eager to learn new technologies and take on challenging projects.
-
+Welcome to my GitHub profile! I'm a passionate developer skilled in building scalable web and mobile applications, with a keen interest in innovative technologies like AI, machine learning, and UI/UX design.  
 
 ---
 
-🛠️ Tech Stack and Skills
+## 🛠️ **Tech Stack and Skills**  
 
-Front-End Development:
+### **Frontend Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-React.js | Next.js | Angular
+### **Backend Development**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white)  
 
-HTML5, CSS3, JavaScript (ES6+), TypeScript
+### **Mobile Development**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
 
-Tailwind CSS, Bootstrap, SASS
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
+### **UI/UX Design**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
 
-Back-End Development:
-
-Node.js | Express.js | Nest.js
-
-.NET Core | RESTful APIs | GraphQL
-
-
-Mobile Development:
-
-React Native | Expo
-
-
-Databases:
-
-MongoDB | MySQL | SQL Server
-
-
-Tools & DevOps:
-
-Docker, Git, GitHub Actions, Azure
-
-Postman, Visual Studio Code, Visual Studio
-
-
-UI/UX Design:
-
-Figma, Adobe XD, Wireframing, Prototyping
-
-
+### **DevOps and Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
-🌟 Projects
+## 🌟 **Highlighted Projects**  
 
-🔹 Firebase Cloud Messaging Expo App
+### 🔹 **[Firebase Cloud Messaging Expo App](https://github.com/mohamed-salih/firebase-cloud-messaging-expo-app)**  
+A React Native app integrated with Firebase for push notifications to enhance user engagement.  
 
-Built a React Native app integrated with Firebase Cloud Messaging.
+### 🔹 **[React Native Meals App](https://github.com/mohamed-salih/react-native-meals-app)**  
+A food recipe app showcasing dynamic UI and efficient state management.  
 
-Features push notifications for better user engagement.
+### 🔹 **Catchy-App**  
+A modern web app built with **Next.js**, featuring server-side rendering and API integration.  
 
+### 🔹 **Car Showcase**  
+A full-stack project using **Node.js** for backend APIs and a sleek frontend design.  
 
-🔹 React Native Meals App
-
-A food recipe app built with React Native showcasing dynamic UI and performance optimization.
-
-
-🔹 Catchy-App (Next.js)
-
-A modern web application featuring advanced routing, server-side rendering, and API integrations using Next.js.
-
-
-🔹 Car Showcase (Node.js)
-
-A Node.js project displaying cars with backend APIs for CRUD operations and frontend integration.
-
-
+### 🔹 **Art Community Platform**  
+An online platform where artists showcase their work, collaborate, and participate in creative challenges.  
 
 ---
 
-📈 GitHub Stats
+## 📈 **GitHub Stats**  
 
-
-
-
-
----
-
-💼 Let's Connect
-
-Email: msalhnwr@gmail.com
-
-LinkedIn: LinkedIn Profile
-
-Portfolio Website: Coming Soon!
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-salih&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-salih&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-salih&theme=radical)  
 
 ---
 
-🎯 What I’m Working On
-
-Enhancing my skills in React Native and Next.js.
-
-Building robust and scalable .NET Core & Angular applications.
-
-Exploring AI and machine learning for creative projects.
-
-
+## 🌍 **What I’m Working On**  
+- Senior-level **React Native** and **.NET Core** projects  
+- Advanced **AI and machine learning** models  
+- Building personal branding through open-source contributions  
 
 ---
 
-Feel free to explore my repositories and connect with me for collaboration! Together, let's build innovative solutions.
+## 💬 **Let's Collaborate!**  
+
+📫 **Email:** [msalhnwr@gmail.com](mailto:msalhnwr@gmail.com)  
+🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohamed-salih/)  
+🌟 **Portfolio:** *Coming Soon!*  
+
+---
+
+Feel free to copy and paste this content into your **README.md** file. If you'd like further customization, let me know!
