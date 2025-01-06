@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Mohamed Salih Mohamed Nour  
 
 🚀 **Software Engineer | Full-Stack Developer | MERN Stack Specialist**  
-🔧 **React.js | Next.js | Angular | Node.js | Express | .NET Core**  
+🔧 **React.js | Next.js | Angular | Node.js | Express | Nest js | .NET Core**  
 
 Welcome to my GitHub profile! I'm a passionate developer skilled in building scalable web and mobile applications, with a keen interest in innovative technologies like AI, machine learning, and UI/UX design.  
 
@@ -68,7 +68,6 @@ An online platform where artists showcase their work, collaborate, and participa
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-salih&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-salih&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-salih&theme=radical)  
 
 ---
 
@@ -82,7 +81,7 @@ An online platform where artists showcase their work, collaborate, and participa
 ## 💬 **Let's Collaborate!**  
 
 📫 **Email:** [msalhnwr@gmail.com](mailto:msalhnwr@gmail.com)  
-🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohamed-salih/)  
+🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mohamed-salih-natsudev)  
 🌟 **Portfolio:** *Coming Soon!*  
 
 ---
